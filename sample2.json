@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Nike",
+        "logo": "https://toppng.com/uploads/preview/ike-logo-clipart-nike-check-escudo-de-nike-para-dream-league-soccer-11562902295xj7xt5wx73.png",
+        "info": "Nike, Inc. is an American multinational corporation that is engaged in the design, development, manufacturing, and worldwide marketing and sales of footwear, apparel, equipment, accessories, and services.",
+        "ratings": {
+            "overallRating": 7.8,
+            "equalityRating": 6.0,
+            "lgbtqRating": 8.4
+        },
+        "events": [
+            {
+                "event_id": 1,
+                "event_info": "Nike's new 'Satan Shoes' created controversy.",
+                "event_source": "https://www.techtimes.com/articles/258487/20210328/cancel-nike-satan-shoes-south-dakota-governor-lil-nas-x.htm"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Adidas",
+        "logo": "https://w7.pngwing.com/pngs/488/478/png-transparent-adidas-originals-t-shirt-logo-brand-adidas-angle-text-retail.png",
+        "info": "Adidas AG is a German multinational corporation, founded and headquartered in Herzogenaurach, Germany, that designs and manufactures shoes, clothing and accessories.",
+        "ratings": {
+            "overallRating": 7.1,
+            "equalityRating": 8.0,
+            "lgbtqRating": 4.9
+        },
+        "events": [
+            {
+                "event_id": 1,
+                "event_info": "Chief of HR department made racist claims.",
+                "event_source": "https://www.forbes.com/sites/isabeltogoh/2020/06/17/adidas-employees-urge-investigation-into-hr-chief-amid-concerns-about-response-to-racism-complaints/?sh=57e8e79450d5"
+            },
+            {
+                "event_id": 2,
+                "eventInfo": "Adidas launches new shoe branch for pride month.",
+                "eventSource": "https://www.adidas.com/us/pride"
+            }
+        ]
+    }
+]
