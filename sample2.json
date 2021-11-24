@@ -13,7 +13,8 @@
             {
                 "event_id": 1,
                 "event_info": "Nike's new 'Satan Shoes' created controversy.",
-                "event_source": "https://www.techtimes.com/articles/258487/20210328/cancel-nike-satan-shoes-south-dakota-governor-lil-nas-x.htm"
+                "event_source": "https://www.techtimes.com/articles/258487/20210328/cancel-nike-satan-shoes-south-dakota-governor-lil-nas-x.htm",
+                "event_image": "https://1734811051.rsc.cdn77.org/data/images/full/382608/cancel-culture-targets-nike-satan-shoes-south-dakota-governor-calls-it-out-saying-its-not-okay.png?w=600?w=650"
             }
         ]
     },
@@ -31,12 +32,14 @@
             {
                 "event_id": 1,
                 "event_info": "Chief of HR department made racist claims.",
-                "event_source": "https://www.forbes.com/sites/isabeltogoh/2020/06/17/adidas-employees-urge-investigation-into-hr-chief-amid-concerns-about-response-to-racism-complaints/?sh=57e8e79450d5"
+                "event_source": "https://www.forbes.com/sites/isabeltogoh/2020/06/17/adidas-employees-urge-investigation-into-hr-chief-amid-concerns-about-response-to-racism-complaints/?sh=57e8e79450d5",
+                "event_image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1218942671%2FThe-Coronavirus-In-Germany--Week-6%2F960x0.jpg%3Ffit%3Dscale"
             },
             {
                 "event_id": 2,
-                "eventInfo": "Adidas launches new shoe branch for pride month.",
-                "eventSource": "https://www.adidas.com/us/pride"
+                "event_info": "Adidas launches new shoe branch for pride month.",
+                "event_source": "https://www.adidas.com/us/pride",
+                "event_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/1f242082437e4bc0bddbad390041d0b2_9366/Love_Unites_Windbreaker_(Gender_Neutral)_Multicolour_H43971.jpg"
             }
         ]
     }
